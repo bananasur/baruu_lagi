@@ -135,10 +135,7 @@ h1.center {
     }
 }
 
-
-
-
-
+/* ... Kode CSS sebelumnya ... */
 
 /* Gaya untuk biodata container */
 .biodata-container {
@@ -203,12 +200,7 @@ body {
     line-height: 1.6;
 }
 
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-}
-
-/* ... Kode CSS sebelumnya ... */
+/* ... Kode CSS lainnya ... */
 
 /* Gaya untuk slider otomatis */
 .slider-container {
@@ -244,10 +236,6 @@ body {
     }
 }
 
-.subkonten1 {
-    text-align: center;
-    font-size: 24px; 
-}
 /*animasi hover*/
 .team .team-social{
     position: absolute;
@@ -308,4 +296,8 @@ body {
     background: #222222;
 }
 
+.subkonten1 {
+    text-align: center;
+    font-size: 24px; 
+}
 
